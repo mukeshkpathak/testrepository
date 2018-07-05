@@ -9,6 +9,7 @@ public class Base {
 
 	public void basemethod(int x) {
 		System.out.println("Executing from Base Class");
+		System.out.println("Test");
 	}	
 }
 
